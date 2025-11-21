@@ -13,12 +13,12 @@ Features
 
 **Usage**
   
-install
+INSTALL
 
-https://github.com/alex-stepa/Alex-s-Wikipedia-Scraper
+*git clone https://github.com/alex-stepa/Alex-s-Wikipedia-Scraper*
 
-install dependencies
+**INSTALL DEPEDENCIES**
 
-pip install requests beautifulsoup4
+*pip install requests beautifulsoup4*
 
 Thanks for installing and enjoy ;3
