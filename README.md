@@ -14,9 +14,11 @@ Features
 **Usage**
   
 install
+
 https://github.com/alex-stepa/Alex-s-Wikipedia-Scraper
 
 install dependencies
+
 pip install requests beautifulsoup4
 
 Thanks for installing and enjoy ;3
