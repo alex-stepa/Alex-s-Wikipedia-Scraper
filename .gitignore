@@ -1,0 +1,6 @@
+# Ignore everything in home directory by default
+/*
+
+# Allow only beamPrototyp project
+!beamPrototyp/
+!.gitignore
